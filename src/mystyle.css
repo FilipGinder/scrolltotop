@@ -1,0 +1,10 @@
+.row-rezervne-slike{
+	width: 40%;
+}
+.column {
+  float: left;
+  width: 10%;
+  padding: 10px;
+  text-align: center;
+}
+

@@ -1,0 +1,17 @@
+{
+    "name": "ginde/ginder",
+    "description": "Test plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Filip Ginder",
+            "email": "ginderfilip@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
